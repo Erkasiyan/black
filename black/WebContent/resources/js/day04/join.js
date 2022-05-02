@@ -16,9 +16,9 @@ document.getElementById('jbtn').onclick = function(){
 		document.getElementById('pw').focus();
 		return;
 	}
-}
+};
 
 // reset 버튼 이벤트
 document.getElementById('rbtn').onclick = function(){
 	document.getElementById('frm').reset();
-}
+};
