@@ -1,0 +1,50 @@
+[
+	{
+		"bno": "10001",
+		"id" : "Nina",
+		"savename" : "img_avatar4.png",
+		"title" : "제목1",
+		"body" : "12345",
+		"wdate" : "2022년 05월 03일"
+	},
+	{
+		"bno": "10002",
+		"id" : "Aza",
+		"savename" : "img_avatar1.png",
+		"title" : "제목2",
+		"body" : "67890",
+		"wdate" : "2022년 05월 03일"
+	},
+	{
+		"bno": "10003",
+		"id" : "Dio",
+		"savename" : "img_avatar2.png",
+		"title" : "제목3",
+		"body" : "가나다라마",
+		"wdate" : "2022년 05월 03일"
+	},
+	{
+		"bno": "10004",
+		"id" : "Bea",
+		"savename" : "img_avatar5.png",
+		"title" : "제목4",
+		"body" : "abcde",
+		"wdate" : "2022년 05월 03일"
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

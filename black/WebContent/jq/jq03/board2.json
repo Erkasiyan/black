@@ -1,0 +1,42 @@
+[
+	{
+		"bno": "10001",
+		"id" : "Nina",
+		"savename" : "img_avatar4.jpg",
+		"title" : "아자키엘은 거짓말쟁이",
+		"body" : "같이 공부 안하기로 해놓고선\n혼자만 시험 잘보고\n디오게네스한테 다 이를거야.",
+		"wdate" : "2022년 05월 03일"
+	},
+	{
+		"bno": "10002",
+		"id" : "Aza",
+		"savename" : "img_avatar1.jpg",
+		"title" : "이거 내가 정말 잘못한거야?",
+		"body" : "그치만 시험 기간을 한달이나 줬고 간단한 문제였잖아..",
+		"wdate" : "2022년 05월 03일"
+	},
+	{
+		"bno": "10003",
+		"id" : "Dio",
+		"savename" : "img_avatar2.jpg",
+		"title" : "",
+		"body" : "",
+		"wdate" : "2022년 05월 03일"
+	},
+	{
+		"bno": "10004",
+		"id" : "Bea",
+		"savename" : "img_avatar5.jpg",
+		"title" : "hello",
+		"body" : "",
+		"wdate" : "2022년 05월 03일"
+	},
+	{
+		"bno": "10005",
+		"id" : "Rau",
+		"savename" : "img_avatar3.jpg",
+		"title" : "hello",
+		"body" : "",
+		"wdate" : "2022년 05월 03일"
+	}
+]
