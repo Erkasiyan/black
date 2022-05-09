@@ -2,33 +2,33 @@
 	{
 		"bno": "10001",
 		"id" : "Nina",
-		"savename" : "img_avatar4.png",
-		"title" : "제목1",
-		"body" : "12345",
-		"wdate" : "2022년 05월 03일"
+		"savename" : "Nina.jpg",
+		"title" : "아자키엘은 거짓말쟁이",
+		"body" : "같이 공부 안하기로 해놓고서!\r\n친구끼리는 매도 같이 맞는 거 랬으면서!\r\n자기만 혼자 쏙 빠져나갔어!\r\n나혼자 반성문썼어!!\r\n디오게네스한테 다 말할거야!!",
+		"wdate" : "2022년 05월 01일"
 	},
 	{
 		"bno": "10002",
 		"id" : "Aza",
-		"savename" : "img_avatar1.png",
-		"title" : "제목2",
-		"body" : "67890",
-		"wdate" : "2022년 05월 03일"
+		"savename" : "Aza.jpg",
+		"title" : "...이거 내가 정말 잘못한거야?",
+		"body" : "그치만 예습이래봐야 책 읽는거였고...\r\n 기간도 한달이나 있었잖아...\r\n그리고 청소면 몰라도 반성문을 어떻게 같이 써줘...",
+		"wdate" : "2022년 05월 01일"
 	},
 	{
 		"bno": "10003",
 		"id" : "Dio",
-		"savename" : "img_avatar2.png",
-		"title" : "제목3",
-		"body" : "가나다라마",
-		"wdate" : "2022년 05월 03일"
+		"savename" : "img_avatar1.png",
+		"title" : "...",
+		"body" : "결국 너가 예습 안 한 잘못이잖아 니나브...",
+		"wdate" : "2022년 05월 02일"
 	},
 	{
 		"bno": "10004",
 		"id" : "Bea",
-		"savename" : "img_avatar5.png",
-		"title" : "제목4",
-		"body" : "abcde",
+		"savename" : "Vea.jpg",
+		"title" : "루페온이시여...",
+		"body" : "아무리 그래도 친구를 때리면 어떡하니...",
 		"wdate" : "2022년 05월 03일"
 	}
 ]

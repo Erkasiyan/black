@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <title>JavaScript Study</title>
-<link rel="stylesheet" type="text/css" href="/black1/resources/css/w3.css">
-<link rel="stylesheet" type="text/css" href="/black1/join/join.css">
-<script type="text/javascript" src="/black1/resources/js/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/black/resources/css/w3.css">
+<link rel="stylesheet" type="text/css" href="/black/join/join.css">
+<script type="text/javascript" src="/black/resources/js/jquery-3.6.0.min.js"></script>
 <style type="text/css">
 
 </style>
@@ -14,34 +14,35 @@
 	<div class="w3-content mx650">
 		<div class="content">
 			<h2 class="box65 j-pink j-card-2 j-padding mar-bo25" >Kingdom 회원가입</h2>
-				<form method="GET" class="box j-card-2" name="frm" id="frm">
+				<form method="GET" class="box j-card-2" name="frm" id="frm" action="/black/join/joinProc.pink">
 					<div class="mar-to20">
 						<label for="name" class="tag">회원이름 : </label>
 						<input type="text" name="user" id="name">
 					</div>
 					<div class="mar-to10">
-						<label for="name" class="tag">아 이 디 : </label>
-						<input type="text" name="id" id="id">
+						<label for="id" class="tag">아 이 디 : </label>
+						<input type="text" name="user" id="id">
 						<button id="idck">id check</button>
 					</div>
 					<div class="mar-to10">
-						<label for="name" class="tag">비밀번호 : </label>
+						<label for="pw" class="tag">비밀번호 : </label>
 						<input type="password" name="user" id="pw">
 					</div>
 					<div class="mar-to10">
-						<label for="name" class="tag"">pw check : </label>
+						<label for="pwck" class="tag"">pw check : </label>
 						<input type="password" name="user" id="pwck">
+						<p id="ckmsg"></p>
 					</div>
 					<div class="mar-to10">
-						<label for="name" class="tag"">회원메일 : </label>
+						<label for="mail" class="tag"">회원메일 : </label>
 						<input type="text" name="user" id="mail">
 					</div>
 					<div class="mar-to10">
-						<label for="name" class="tag"">전화번호 : </label>
+						<label for="tel" class="tag"">전화번호 : </label>
 						<input type="text" name="user" id="tel">
 					</div>
 					<div class="mar-to10">
-						<label for="name" class="tag">회원성별 : </label>
+						<label class="tag">회원성별 : </label>
 						<div id="gen">
 							<input type="radio" name="user" id="m">
 								<h6>남자</h6>
@@ -49,7 +50,7 @@
 								<h6>여자</h6>
 						</div>
 					</div>	
-					<div class="mar-last">
+					<div class="mar-last" id="avtall">
 							<label for="name" class="tag position" id="avtlabel">아바타 : </label>
 						<div id="avt">
 							<div id="mvt">
@@ -114,6 +115,6 @@
 		</div>
 		</div>
 	</div>
-<script type="text/javascript" src="/black1/join/join.js"></script>
+<script type="text/javascript" src="/black/join/join.js"></script>
 </body>
 </html>
